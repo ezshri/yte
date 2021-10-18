@@ -1,1 +1,6 @@
 hello mayank
+git status
+git add .
+git status
+git commit -m "change: editing done"
+git push origin body
