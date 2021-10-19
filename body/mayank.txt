@@ -5,3 +5,7 @@ git status
 git commit -m "change: editing done"
 git push origin body
 git pull origin body
+
+body--->car
+git checkout car
+git merge body
